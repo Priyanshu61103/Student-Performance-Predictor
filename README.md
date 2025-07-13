@@ -13,7 +13,9 @@ Predict if a student passes (average score ≥ 60) using features such as:
 
 ## Tech Stack
 Language: Python
+
 Libraries: pandas, numpy, scikit-learn, matplotlib
+
 Model: Decision Tree Classifier
 
 ## Features & Workflow
